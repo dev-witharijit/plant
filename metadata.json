@@ -1,0 +1,6 @@
+{
+  "name": "AgroVision - Plant Pathology & Crop Diagnostic Assistant",
+  "description": "Expert plant disease, pest, and nutrient deficiency triage powered by vision AI. Upload plant photos for diagnostic analysis and treatment recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
